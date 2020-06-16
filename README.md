@@ -1,2 +1,7 @@
 # FinalProjectUASPSDA
-Mohammad Iqbal Anggoro - 1910512016 - Final Project UAS PSDA - BST
+Nama saya Mohammad Iqbal Anggoro (anggoro1901@gmail.com), dengan NIM 1910512016, ingin menjelaskan program yang saya buat. Secara garis besar, ada beberapa pilihan di menu utama, seperti Tambah Bilangan, Lihat Pre order, In order dan Post order, Hapus Bilangan, Kosongkan Data/Reset Data, Search/Cari bilangan, serta mencari Bilangan terkecil maupun terbesar.
+Penjelasan saya mulai dari Tambah Bilagan. Cara bekerjanya adalah kita memilih opsi nomor 1, lalu memasukkan bilangan yang kita ingin masukkkan kedalam BST. Setelah memasukkan bilangannya dengan menekan enter, maka akan ada tulisan "Data Bertambah"
+Lalu dari pilihan melihat Pre,In, dan Post order. Caranya hanya memilih dari ketiga opsi tersebut, lalu akan keluar bilangan yang kita input sebelumnya, dan diurutkan berdasarkan order yang kita pilih.
+Lalu dari pilihan Kosongkan Data/Reset Data. Menu ini berfungsi untuk menghapus segala bilangan/data yang kita masukkan sebelumnya kedalam BST. Cara menggunakannya adalah dengan memasukkan pilihan nomor 6, lalu enter. Maka secara otomatis seluruh data pada BST akan hilang.
+Lalu dari pilihan Search/Mencari Data. Seperti dari judul menunya, opsi ini berfungsi untuk mencari data/bilangan yang ada pada BST. Jika kita mencari bilangan lalu kita menemukannya, maka akan ada tulisan 'DITEMUKAN'. Sebaliknya, jika kita mencari bilangan pada BST tersebut, namun tidak ditemukan, maka akan muncul tulisan 'TIDAK DITEMUKAN'.
+Lalu yang terakhir adalah mencari nilai terbesar dan terkecil dari BST. Cara menggunakannnya adalah memilih opsi nomor 8 untuk "Bilangan Terkecil" atau opsi 9 untuk "Bilangan Terbesar", maka secara otomatis akan muncul hasil yang diinginkan.
